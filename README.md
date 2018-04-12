@@ -5,7 +5,7 @@
             </p>
       <p align="center">
       <a href="https://github.com/jtsampson/g2actuate">
-        <img src="320px-Naotes.svg.png.png" width=320 height=118>
+        <img src="320px-Notes.svg.png.png" width=320 height=118>
       </a>
       </p>
       <hr>
