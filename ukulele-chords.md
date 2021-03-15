@@ -1,10 +1,10 @@
-<!-- 
-<script src="//pianosnake.github.io/uke-chord/webcomponents-lite.min.js">
-</script>
-<script src="//pianosnake.github.io/uke-chord/uke-chord.min.js">
-</script>
--->
+
+<script src="https://github.com/jtsampson/notes/webcomponents-lite.min.js"></script>
+<script src="https://github.com/jtsampson/notes/uke-chord.min.js"></script>
+
+<p align="center">
 <uke-chord frets="2010"></uke-chord>
 <uke-chord frets="x32010"></uke-chord>
 <uke-chord frets="320"></uke-chord>
 <uke-chord frets="4xx30xx"></uke-chord>
+</p>
