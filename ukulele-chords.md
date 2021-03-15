@@ -1,6 +1,6 @@
 
-<script src="https://github.com/jtsampson/notes/webcomponents-lite.min.js"> </script>
-<script src="https://github.com/jtsampson/notes/uke-chord.min.js"> </script>
+<script src="//github.com/jtsampson/notes/webcomponents-lite.min.js"> </script>
+<script src="//github.com/jtsampson/notes/uke-chord.min.js"> </script>
 
 <p align="center">
 <uke-chord frets="2010"></uke-chord>
