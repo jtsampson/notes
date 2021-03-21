@@ -1,5 +1,6 @@
+# Java 8 Features
 <p align="center">
-      <h1 style="color:#990000" align="center">Notes</h1>
+      <h1 style="color:#990000" align="center">Java 8 Features</h1>
       <p align="center">
               Things I'd like to keep track of.
             </p>
