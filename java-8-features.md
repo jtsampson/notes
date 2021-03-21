@@ -39,7 +39,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Released:
+## Release Date
  
 March 8, 2014
 
@@ -282,7 +282,7 @@ boolean stop = list.stream().anyMatch(item -> item.contains("stop"));
 
 #### Filtering
 
-The `'filter()` allow us to pick a stream of elements that satisfy a predicate.
+The `'filter()` method allow us to pick a stream of elements that satisfy a predicate.
 ```java
 ArrayList<String> basket = new ArrayList<>();
 list.add("Apple");
@@ -294,14 +294,14 @@ Stream<String> stream = basket.stream().filter(fruit -> fruit.startsWith("a"));
 ```
 
 #### Mapping
-Mapping allows us to apply a function to each element of a collection and collect it into a stream.
+The `.map()` method allows us to apply a function to each element of a collection and collect it into a new stream.
 ```java
 // Transform a list of type String into a list of Path
 List<String> uris = new ArrayList<>();
 uris.add("C:\\My.txt");
 Stream<Path> stream = uris.stream().map(uri -> Paths.get(uri));
 ```
-Use `.flatMap()` to obtain a stream from the child elements of a collection of parents.
+The `.flatMap()` method allows us to obtain a stream from the child elements of a collection of parents.
 ```java
 // Create a list of all childrens toys
 List<Parent> parents = new ArrayList<>();
@@ -310,7 +310,7 @@ Stream<String> stream
   = parents.stream().flatMap(child -> child.getToys().stream());
 ```
 #### Matching
-Use `anyMatch(), allMatch(), noneMatch()`.
+The `anyMatch(), allMatch(), noneMatch()` methods allow us to match elements of streams.
 ```java
 boolean isValid = list.stream().anyMatch(element -> element.contains("h")); // true
 boolean isValidOne = list.stream().allMatch(element -> element.contains("h")); // false
@@ -322,7 +322,7 @@ Stream.empty().anyMatch(Objects::nonNull); // false
 ```
 
 #### Reduction
-Reducing a stream to a single value with an accumulator (BinaryOperator) function
+The `.reduce()` method allows us to reduce a stream to a single value with an accumulator (BinaryOperator) function
 ```java
   int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
   // 1st argument, init value = 0
@@ -334,7 +334,7 @@ Reducing a stream to a single value with an accumulator (BinaryOperator) functio
   System.out.println("sum2 : " + sum2); // 55
 ```
 ### Collecting
-You can reduce a stream to a Collection with `.collect()` and the `Collectors` class.
+The `.collect()` method and the `Collectors` class allow us to collect (or reduce)  to Collections.
 ```java
 List<String> normalizedElements = list.stream()
         .map(element -> element.toLoweweCase())
@@ -343,7 +343,7 @@ List<String> normalizedElements = list.stream()
 
 ## Base64 Encode/Decode
 
-With JAva 8 we now have a `Base64` class to allow encode/decode w/o a third pary library. Types:
+The `Base64` class to allow us encode/decode w/o a third party libraries. Types:
   - Simple encoding/decoding
   - URL encoding/decoding
   - MIME encoding/decoding
@@ -354,5 +354,5 @@ The `Optional` class is a container object which may or may not contain a non-nu
  - if `isPresent() == true` then `get()` will return a value
  - if `isPresent() == false` then `get()` wil return null
  - The `orElse()` can be used to return a default value.
- - Per javadocs: This is a value-based class; use of identity-sensitive operations (including reference equality (==), 
-   identity hash code, or synchronization) on instances of Optional may have unpredictable results and should be avoided.
+> Per Javadocs: This is a value-based class; use of identity-sensitive operations (including reference equality (==), 
+  identity hash code, or synchronization) on instances of Optional may have unpredictable results and should be avoided.
