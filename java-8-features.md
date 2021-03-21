@@ -15,7 +15,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Released:](#released)
+- [Release Date](#release-date)
 - [Java forEach loop](#java-foreach-loop)
 - [Interfaces: default and static methods](#interfaces-default-and-static-methods)
   - [Keyword: `default`](#keyword-default)
@@ -330,11 +330,14 @@ The `.reduce()` method allows us to reduce a stream to a single value with an ac
   System.out.println("sum : " + sum); // 55
         
   // if no initial value provided, the result is Optional<T>
-  int sum2 = Arrays.stream(numbers).reduce((a, b) -> a + b);
-  System.out.println("sum2 : " + sum2); // 55
+  Optional<Integer> sum2 = Arrays.stream(numbers).reduce((a, b) -> a + b);
+  if (sum2.isPresent()){
+        System.out.println("sum2 : " + sum2); // 55
+  }
+  
 ```
 ### Collecting
-The `.collect()` method and the `Collectors` class allow us to collect (or reduce)  to Collections.
+The `.collect()` method and the `Collectors` class allow us to collect (or reduce) Steams to Collections.
 ```java
 List<String> normalizedElements = list.stream()
         .map(element -> element.toLoweweCase())
