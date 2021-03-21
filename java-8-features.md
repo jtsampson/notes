@@ -20,6 +20,7 @@
 - [Interfaces: default and static methods](#interfaces-default-and-static-methods)
   - [Keyword: `default`](#keyword-default)
   - [Keyword: `static`](#keyword-static)
+  - [Interfaces](#interfaces)
 - [Functional Interfaces](#functional-interfaces)
 - [Lambda Expressions](#lambda-expressions)
 - [Method references](#method-references)
@@ -128,6 +129,15 @@ class Toad implements AquaticAnimal {
     }
 }
 ```
+### Interfaces
+
+As of Java 8, Interfaces can have:
+
+- Abstract Methods
+- Constant Variables
+- Default Methods (Added in Java 8)
+- Static Methods (Added in Java 8)
+- Note: Java 9 adds more
 
 ## Functional Interfaces
 
