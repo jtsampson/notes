@@ -1,4 +1,3 @@
-# Java 8 Features
 <p align="center">
       <h1 style="color:#990000" align="center">Java 8 Features</h1>
       <p align="center">
@@ -110,8 +109,6 @@ class Toad implements AquaticAnimal {
     }
 }
 ```
-
-# Functional Interfaces and Lambda Expressions
 
 ## Functional Interfaces
 
