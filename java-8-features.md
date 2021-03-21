@@ -15,18 +15,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Java 8 Features](#java-8-features)
-  - [Java forEach loop](#java-foreach-loop)
-  - [Interfaces: default and static methods](#interfaces-default-and-static-methods)
-  - [Functional Interfaces](#functional-interfaces)
-  - [Lambda Expressions](#lambda-expressions)
+- [Java forEach loop](#java-foreach-loop)
+- [Interfaces: default and static methods](#interfaces-default-and-static-methods)
+- [Functional Interfaces](#functional-interfaces)
+- [Lambda Expressions](#lambda-expressions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
-
-
-# Java 8 Features
 
 ## Java forEach loop
 
