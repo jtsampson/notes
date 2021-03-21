@@ -5,7 +5,7 @@
             </p>
       <p align="center">
       <a href="https://github.com/jtsampson/notes">
-        <img src="java-8-features.png" width=320 height=342>
+        <img src="java-8-features.png" width=193 height=206>
       </a>
       </p>
       <hr>
