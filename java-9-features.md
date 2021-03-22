@@ -15,13 +15,20 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-  - [Jigsaw Project](#jigsaw-project)
-  - [Process API](#process-api)
-  - [Interface Private Methods](#interface-private-methods)
+- [Release Date](#release-date)
+- [Jigsaw Project](#jigsaw-project)
+- [Process API](#process-api)
+- [Interface Private Methods](#interface-private-methods)
+- [JShell Command Line Tool](#jshell-command-line-tool)
+- [New JCMD utility sub commands](#new-jcmd-utility-sub-commands)
+- [Variable Handles](#variable-handles)
+- [Publish-Subscribe Framework](#publish-subscribe-framework)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Release Date
 
+September 2017
 
 ## Jigsaw Project
 
