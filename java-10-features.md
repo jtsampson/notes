@@ -13,19 +13,18 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Java 10 Features](#java-10-features)
-    - [Released](#released)
-    - [Oracle JDK vs Open JDK](#oracle-jdk-vs-open-jdk)
-        - [Oracle JDK Release Cycle](#oracle-jdk-release-cycle)
-        - [OpenJDK Release Cycle](#openjdk-release-cycle)
-    - [Local Variable Type Inference (JEP 286)](#local-variable-type-inference-jep-286)
-    - [Unmodifiable Collections Changes](#unmodifiable-collections-changes)
-        - [copyOf()](#copyof)
-        - [toUnmodifiable()](#tounmodifiable)
-    - [Optional Changes](#optional-changes)
-    - [Container Awareness](#container-awareness)
-    - [Application Class Data Sharing](#application-class-data-sharing)
-    - [Root Certificates (JEP 319)](#root-certificates-jep-319)
+- [Released](#released)
+- [Oracle JDK vs Open JDK](#oracle-jdk-vs-open-jdk)
+  - [Oracle JDK Release Cycle](#oracle-jdk-release-cycle)
+  - [OpenJDK Release Cycle](#openjdk-release-cycle)
+- [Local Variable Type Inference (JEP 286)](#local-variable-type-inference-jep-286)
+- [Unmodifiable Collections Changes](#unmodifiable-collections-changes)
+  - [copyOf()](#copyof)
+  - [toUnmodifiable()](#tounmodifiable)
+- [Optional Changes](#optional-changes)
+- [Container Awareness](#container-awareness)
+- [Application Class Data Sharing](#application-class-data-sharing)
+- [Root Certificates (JEP 319)](#root-certificates-jep-319)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
