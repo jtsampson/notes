@@ -1,4 +1,12 @@
-Just a test.
+<!--
+<script>
+
+console.log('Hi Bob!')
+
+</script>
+-->
+
+![thing](https://github.com/jtsampson/notes/raw/master/320px-Notes.svg.png)
 
 Just [[Dm]]()sit right back and you'll [[C]]()hear a tale  
 A [[Dm]]() tale of a fateful [[C]]()trip  
