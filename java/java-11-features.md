@@ -57,9 +57,7 @@ Summary from link above:
 
 ## [JEP 321](https://openjdk.java.net/jeps/321): HTTP Client (Standard)
 
-TODO: Need to work on using this a bit.
-
-Introduces the new `java.net.http.HttpClient` class, updated with feedback.
+Adds the new `java.net.http.HttpClient` class, updated with feedback.
 
 Before Java 11, developers had to use the `URLConnection`, or use third-party library such as Apache HttpClient, or 
 OkHttp.  The new Java HTTP Client supports both HTTP/1.1 and HTTP/2. The client will send requests using HTTP/2. 
@@ -168,10 +166,10 @@ This makes the usage of `var` uniform in both local variables and lambda variabl
 (var s1, var s2) -> s1 + s2
 
 // Why? Uniformity....and you can now add annotations when specifying var.
-(@Nonnull var s1, @Nonnull s2) -> s1 + s2
+(@Nonnull var s1, @Nonnull var s2) -> s1 + s2
 
 // Notes
-// cannot mix and match using var (when multiple parameters)
+// cannot mix and match using var (when multiple parameters some cannot be declared and others not)
 // 
 ```
 
@@ -198,19 +196,20 @@ The static void main of MyScript is run.
 ### Using a Script
 The Rules 
 
-1. You may not mix java code with your desired shell scripting language. (Imagine the mess this would create!)
+1. You may not mix java code with your desired shell scripting language.
 2. Should you include VM options, you must specify the --source as the first option following the filename in the shebang file.
-3. If you need to specify the source version of the file (obvious).
+3. If you need to specify the source version of the file (.java).
 4. The shebang must be the first line of the file, of which the first two characters must strictly be ASCII character 0x23 followed by ASCII character 0x21 (#!).
-5. “The name of the shebang file does not follow the standard naming conventions for Java source files.”[1] (Note: This does not appear to be implemented as of EA build +18, please correct me if I am wrong!)
-6. Files ending in .java are not permitted to include the #! shebang.
+5. The name of the shebang file does not follow the standard naming conventions for Java source files.
+6. Files ending in .java are not permitted to include the `#!` (shebang).
 7. Java will split arguments for the --sourceoption should it contain whitespace. You may not override this by using quotes to preserve whitespace.
-8. The shebang line (the first line) is ignored when evaluating source code against the JLS9. Single file programs onlty
+8. The shebang line (the first line) is ignored when evaluating source code against the JLS9.
 9. Single file programs only
 10 No class files are generated to the file system (they are compiled into memory)
 11. If MyScript.class exists, you cannot invoke MyScript.java
 12. You must use file name and not class name.
 13 The first class in the script will be run (so check order if necessary)
+
 The Script can be invoked like:
 ```shell
 #The file can also be invoked as follows
