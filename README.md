@@ -12,6 +12,7 @@
 </p>
 
 - Java
-  - [Java-8-Features](https://github.com/jtsampson/notes/blob/master/java-8-features.md)
-  - [Java-9-Features](https://github.com/jtsampson/notes/blob/master/java-9-features.md)
-  - [Java-10-Features](https://github.com/jtsampson/notes/blob/master/java-10-features.md)
+  - [Java-8-Features](https://github.com/jtsampson/notes/java/blob/master/java-8-features.md)
+  - [Java-9-Features](https://github.com/jtsampson/notes/java/blob/master/java-9-features.md)
+  - [Java-10-Features](https://github.com/jtsampson/notes/java/blob/master/java-10-features.md)
+  - [Java-11-Features](https://github.com/jtsampson/notes/java/blob/master/java-11-features.md)

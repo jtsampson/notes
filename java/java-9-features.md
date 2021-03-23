@@ -4,7 +4,7 @@
               Things I'd like to keep track of.
             </p>
       <p align="center">
-      <a href="https://github.com/jtsampson/notes">
+      <a href="https://github.com/jtsampson/notes/java">
         <img src="java-9-features.jpg" width=193 height=206>
       </a>
       </p>
@@ -161,3 +161,16 @@ These interfaces support interoperability across a number of asynchronous system
 
 See: [http://www.reactive-streams.org/](http://www.reactive-streams.org/)
 
+## Deprecate EE and CORBA
+
+The following are deprecated, and in the next release will be removed: the `java.corba` module, 
+the four modules that define APIs that overlap with the Java EE Platform Specification, and the 
+`java.activation`, module which was originally included in Java SE 6 as part of JAXB/JAX-WS:
+
+ - `java.activation`
+ - `java.corba`
+ - `java.se.ee` (aggregator)
+ - `java.transaction`
+ - `java.xml.bind`
+ - `java.xml.ws`
+ - `java.xml.ws.annotation`

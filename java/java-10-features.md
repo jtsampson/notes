@@ -4,7 +4,7 @@
               Things I'd like to keep track of.
             </p>
       <p align="center">
-      <a href="https://github.com/jtsampson/notes">
+      <a href="https://github.com/jtsampson/notes/java">
         <img src="java-10-features.png" width=193 height=206>
       </a>
       </p>
