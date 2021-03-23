@@ -1,5 +1,5 @@
 <p align="center">
-      <h1 style="color:#990000" align="center">Java 110 Features</h1>
+      <h1 style="color:#990000" align="center">Java 11 Features</h1>
       <p align="center">
               Things I'd like to keep track of.
             </p>
