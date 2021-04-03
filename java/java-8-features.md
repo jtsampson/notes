@@ -1,6 +1,6 @@
 <p>
       <h1 style="color:#990000" align="center">Java 8 Features</h1>
-      <p style="text-align: center;">Notes</p>
+      <p align="center">Notes</p>
       <p align="center">
       <a href="https://github.com/jtsampson/notes/java">
         <img src="java-8-features.png" width=193 height=206>
