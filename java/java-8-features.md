@@ -1,15 +1,13 @@
-<p align="center">
+<p>
       <h1 style="color:#990000" align="center">Java 8 Features</h1>
-      <p align="center">
-              Things I'd like to keep track of.
-            </p>
+      <p style="text-align: center;">Notes</p>
       <p align="center">
       <a href="https://github.com/jtsampson/notes/java">
         <img src="java-8-features.png" width=193 height=206>
       </a>
       </p>
       <hr>
-</p>
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -142,7 +140,7 @@ As of Java 8, Interfaces can have:
 ## Functional Interfaces
 
 A functional interface has exactly one abstract method. Lambda expressions need functional interfaces.
-If you create an interface class with exactly one abstract method, it is, by definition, a functional interface. However
+If you create an interface class with exactly one abstract method, it is, by definition, a functional interface. However,
 any developer can come along and add another abstract method, and the compiler will then not know  which abstract method
 should be used in the context of the lambda. We can use the `@FunctionalInterface` to mark the interface as functional
 to prevent another developer from adding more abstract methods.
@@ -247,7 +245,7 @@ Arrays.sort(stringArray, String::compareToIgnoreCase);
 
 // Reference to a constructor (it can be inferred, but if you want to spe
 Set<Person> rosterSet = transferElements(roster, HashSet::new);
-// The compiler infers hashset in this inance, if you want to specify you can do...
+// The compiler infers hashset in this instance, if you want to specify you can do...
         Set<Fruit> fruitSet = transferElements(basket, HashSet<Fruit>::new);
 ```
 
@@ -313,7 +311,7 @@ Stream<Path> stream = uris.stream().map(uri -> Paths.get(uri));
 ```
 The `.flatMap()` method allows us to obtain a stream from the child elements of a collection of parents.
 ```java
-// Create a list of all childrens toys
+// Create a list of all children's toys
 List<Parent> parents = new ArrayList<>();
 parents.add(new Child("Tom"));
 Stream<String> stream
@@ -356,7 +354,7 @@ List<String> normalizedElements = list.stream()
 
 ## Base64 Encode/Decode
 
-The `Base64` class to allow us encode/decode w/o a third party libraries. Types:
+The `Base64` class to allow us to encode/decode w/o a third party libraries. Types:
   - Simple encoding/decoding
   - URL encoding/decoding
   - MIME encoding/decoding

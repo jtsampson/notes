@@ -1,15 +1,12 @@
-<p align="center">
+<p>
       <h1 style="color:#990000" align="center">Java 9 Features</h1>
-      <p align="center">
-              Things I'd like to keep track of.
-            </p>
+      <p align="center">Notes</p>
       <p align="center">
       <a href="https://github.com/jtsampson/notes/java">
         <img src="java-9-features.jpg" width=193 height=206>
       </a>
       </p>
       <hr>
-</p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -36,7 +33,7 @@ The Jigsaw project allows us to provide the JDK in modules.
 
 Modules are defined in a file called `modules-info.java`.
 
-```json
+```java
 module com.sampson.java9.modules.bike {
     requires com.sampson.java9.modules.wheels;
     exports com.sampson.java9.modules.riding;
@@ -127,8 +124,8 @@ C:\notes>"C:\jdk-16\bin\jcmd" 20512 VM.class_hierarchy -i -s java.net.Socket
 20512:
 java.lang.Object/null
 |--java.net.Socket/null
-|  implements java.io.Closeable/null (declared intf)
-|  implements java.lang.AutoCloseable/null (inherited intf)
+|  implements java.io.Closeable/null (declared interface)
+|  implements java.lang.AutoCloseable/null (inherited interface)
 
 ```
 
@@ -157,7 +154,7 @@ The class `java.util.concurrent.Flow` provides interfaces that support the React
 
 Reactive Streams is an initiative to provide a standard for asynchronous stream processing with non-blocking back 
 pressure. This encompasses efforts aimed at runtime environments (JVM and JavaScript) as well as network protocols.
-These interfaces support interoperability across a number of asynchronous systems running on JVMs and JavaSriprt.
+These interfaces support interoperability across a number of asynchronous systems running on JVMs and JavaScriprt.
 
 See: [http://www.reactive-streams.org/](http://www.reactive-streams.org/)
 

@@ -1,15 +1,12 @@
 <p align="center">
       <h1 style="color:#990000" align="center">Java 10 Features</h1>
-      <p align="center">
-              Things I'd like to keep track of.
-            </p>
+      <p align="center">Notes</p>
       <p align="center">
       <a href="https://github.com/jtsampson/notes/java">
         <img src="java-10-features.png" width=193 height=206>
       </a>
       </p>
       <hr>
-</p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
