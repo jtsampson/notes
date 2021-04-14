@@ -9,7 +9,7 @@
 <hr>
 
  ## Cloud
-   - [AZ-900]((https://github.com/jtsampson/notes/blob/master/azure/AZ-900.md))
+   - [AZ-900](https://github.com/jtsampson/notes/blob/master/azure/AZ-900.md)
  ## Java
    - [Java Keywords](https://github.com/jtsampson/notes/blob/master/java/java-keywords.md)
    - [Java-8-Features](https://github.com/jtsampson/notes/blob/master/java/java-8-features.md)
