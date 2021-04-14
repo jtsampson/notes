@@ -1,12 +1,12 @@
 <p align="center"/>
 <h1 style="color:#990000" align="center">Reading List</h1>
-      <p align="center">Notes</p>
       <p align="center">
       <p align="center">
       <a href="https://github.com/jtsampson/notes/reading-list">
         <img src="reading-list.png" width=193 height=206>
       </a>
       </p>
+      <p align="center">Notes</p>
 <hr>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
