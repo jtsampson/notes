@@ -17,4 +17,4 @@
    - [Java-10-Features](https://github.com/jtsampson/notes/blob/master/java/java-10-features.md)
    - [Java-11-Features](https://github.com/jtsampson/notes/blob/master/java/java-11-features.md)
 ## Reading
-   - [List](https://github.com/jtsampson/notes/blob/master/reading-list/reading-list.md)
+   - [List](https://github.com/jtsampson/notes/blob/master/reading-list/README.md)
