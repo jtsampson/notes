@@ -71,4 +71,14 @@
 ### Atomic Habits
   - Author: James Clear
   - Notes: liked that 'your chosen identity reinforces your habits' - really just wanted to figure
-    out a way to make 'making my bed' in the morning a habit. lol. 
+    out a way to make 'making my bed' in the morning a habit. lol.
+### Harry Potter and the Sorcerer's Stone
+  - Author: J.K. Rowling
+  - The movies just keep comming up everytime I turn on a tv, so I figures I should read it.
+### Divergent
+  - Author: Veronica Roth
+  - A Fun read. I've seen the movie twice, so it was interesting to juxtapose the two.
+### Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)
+  - Author: Thomas Erikson
+  - Notes: I couldn't get past the first chapter...my mind kept drifting. 
+  -
