@@ -24,6 +24,13 @@
   - [Ready player Two](#ready-player-two)
   - [The 100 Thing Challenge: How I Got Rid of Almost Everything, Remade My Life, and Regained My Soul](#the-100-thing-challenge-how-i-got-rid-of-almost-everything-remade-my-life-and-regained-my-soul)
   - [Atomic Habits](#atomic-habits)
+  - [Harry Potter and the Sorcerer's Stone](#harry-potter-and-the-sorcerers-stone)
+  - [Divergent](#divergent)
+  - [Insurgent](#insurgent)
+  - [Alegiant](#alegiant)
+  - [Thinking in Pictures](#thinking-in-pictures)
+  - [Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)](#surrounded-by-idiots-the-four-types-of-human-behavior-and-how-to-effectively-communicate-with-each-in-business-and-in-life)
+  - [Other Voices, Other Rooms](#other-voices-other-rooms)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
