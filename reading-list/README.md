@@ -81,4 +81,7 @@
 ### Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)
   - Author: Thomas Erikson
   - Notes: I couldn't get past the first chapter...my mind kept drifting. 
+### Other Voices, Other Rooms
+  - Author: Truman Capote
+  - Notes: I saw `Capote (2005)` on Netflix and thought this might be good. As I read I wondered if bits of is were autobiographical, turns out it was (or at least people think it is.
   -
