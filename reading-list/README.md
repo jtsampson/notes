@@ -78,6 +78,13 @@
 ### Divergent
   - Author: Veronica Roth
   - A Fun read. I've seen the movie twice, so it was interesting to juxtapose the two.
+### Insurgent 
+  - Author: Veronica Roth
+  - Interesting differences between the mopvie and the book
+### Alegiant
+  - Author: Veronica Roth
+### Thinking in Pictures
+ -  Author: Temple Grandin
 ### Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)
   - Author: Thomas Erikson
   - Notes: I couldn't get past the first chapter...my mind kept drifting. 
