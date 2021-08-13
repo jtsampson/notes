@@ -97,5 +97,31 @@
   - Notes: I couldn't get past the first chapter...my mind kept drifting. 
 ### Other Voices, Other Rooms
   - Author: Truman Capote
-  - Notes: I saw `Capote (2005)` on Netflix and thought this might be good. As I read I wondered if bits of it were autobiographical, turns out they were (or at least wikipedia thinks so).
-  
+  - Notes: I saw `Capote (2005)` on Netflix and thought this might be good. As I read I wondered if 
+    bits of it were autobiographical, turns out they were (or at least wikipedia thinks so).
+### The Mosquito Coast
+  - Author: Paul Theraux
+  - Notes: I listened to it on 1.2 speed and the father always sounded like a old tiey wise acre...
+   but that didn't take away from it too much
+### Nightmare Scenario
+  - Yasmeen Abutaleb, Damian Paletta
+  - Note: Wow, holly crap batman, did all that really happen? I'm inclined to believe most of it did. 
+    But I would love to find/read another book on the same subject written from the 'other' side for 
+    balance (or comedy)
+### Girl One
+  - Sara Flannery Murphy
+  - Notes: Quite good. 
+### WOnder WOman
+  - Leigh Bardugo
+  - Notes, turns out the same author of SHadow and Bone (which I came across on streaming). Actually 
+    didn't see the twist coming, which is rare for me.
+## A Few More Pretty Good Jokes
+  - Garrison Keilor
+  - Notes: A Bit of fun. made me smile.
+### Marvel's Gaurdians of the Galaxy, Volume 2
+  - Marvel Press
+  - Notes: Only half listened. Different sequence of events on some parts of the plot from the movie 
+    to be expected)
+### Glitch
+   - Laura Martin
+   
