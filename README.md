@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Notes](#notes)
+  - [Cloud](#cloud)
+  - [Reading](#reading)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <p>
   <h1 style="color:#990000" align="center">Notes</h1>
   <p align="center">Things I'd like to keep track of.</p>  
