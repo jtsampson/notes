@@ -118,7 +118,7 @@
 ### Girl One
   - Sara Flannery Murphy
   - Notes: Quite good. 
-### WOnder WOman
+### Wonder Woman
   - Leigh Bardugo
   - Notes, turns out the same author of SHadow and Bone (which I came across on streaming). Actually 
     didn't see the twist coming, which is rare for me.
@@ -131,4 +131,7 @@
     to be expected)
 ### Glitch
    - Laura Martin
+### Game On
+   - Dustin Hansen.
+   - Notes: Meh. Some interesting facts and anectdotes, not not being much of a console gamer, it got a bit boring.
    
