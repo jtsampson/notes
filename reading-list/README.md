@@ -31,6 +31,13 @@
   - [Thinking in Pictures](#thinking-in-pictures)
   - [Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life)](#surrounded-by-idiots-the-four-types-of-human-behavior-and-how-to-effectively-communicate-with-each-in-business-and-in-life)
   - [Other Voices, Other Rooms](#other-voices-other-rooms)
+  - [The Mosquito Coast](#the-mosquito-coast)
+  - [Nightmare Scenario](#nightmare-scenario)
+  - [Girl One](#girl-one)
+  - [WOnder WOman](#wonder-woman)
+- [A Few More Pretty Good Jokes](#a-few-more-pretty-good-jokes)
+  - [Marvel's Gaurdians of the Galaxy, Volume 2](#marvels-gaurdians-of-the-galaxy-volume-2)
+  - [Glitch](#glitch)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
