@@ -34,10 +34,14 @@
   - [The Mosquito Coast](#the-mosquito-coast)
   - [Nightmare Scenario](#nightmare-scenario)
   - [Girl One](#girl-one)
-  - [WOnder WOman](#wonder-woman)
-- [A Few More Pretty Good Jokes](#a-few-more-pretty-good-jokes)
+  - [Wonder Woman](#wonder-woman)
+  - [A Few More Pretty Good Jokes](#a-few-more-pretty-good-jokes)
   - [Marvel's Gaurdians of the Galaxy, Volume 2](#marvels-gaurdians-of-the-galaxy-volume-2)
   - [Glitch](#glitch)
+  - [Game On](#game-on)
+  - [New Spring](#new-spring)
+  - [The Eye of the World](#the-eye-of-the-world)
+  - [The Hunt](#the-hunt)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -122,7 +126,7 @@
   - Leigh Bardugo
   - Notes, turns out the same author of SHadow and Bone (which I came across on streaming). Actually 
     didn't see the twist coming, which is rare for me.
-## A Few More Pretty Good Jokes
+### A Few More Pretty Good Jokes
   - Garrison Keilor
   - Notes: A Bit of fun. made me smile.
 ### Marvel's Gaurdians of the Galaxy, Volume 2
@@ -134,4 +138,12 @@
 ### Game On
    - Dustin Hansen.
    - Notes: Meh. Some interesting facts and anectdotes, not not being much of a console gamer, it got a bit boring.
-   
+### New Spring
+   - Robert Jordan, 
+   - Narration: Kate Reading, Michael Kramer
+### The Eye of the World
+   - Robert Jordan
+   - Narration: Kate Reading, Michael Kramer
+### The Hunt
+   - Robert Jordan
+   - Narration: Kate Reading, Michael Kramer
