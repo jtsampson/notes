@@ -141,9 +141,32 @@
 ### New Spring
    - Robert Jordan, 
    - Narration: Kate Reading, Michael Kramer
+### Learn Spanish in Your Car Verbs 101
+   - Stacey Tipton
 ### The Eye of the World
    - Robert Jordan
    - Narration: Kate Reading, Michael Kramer
-### The Hunt
+### The Great Hunt
    - Robert Jordan
    - Narration: Kate Reading, Michael Kramer
+### Foundation:
+   - Isaac Asimov
+   - Narration: Scott Brick
+### Trip
+   - T. Torrest
+   - NArration
+### Prelude to Foundation:
+   - Isaac Asimov
+   - Narration: Scott Black
+### The Dragon Reborn
+  - Robert Jordan
+  - Narration: Kate Reading, Michael Kramer
+### The Shadow Rising
+  - Robert Jordan
+  - Narration: Kate Reading, Michael Kramer
+### Pride and Prejudice
+  - Jane Austin
+  - Narration: Kate Kellgren
+### The Pillars of the Earth
+  - Ken Follet
+  - Narration: John Lee
