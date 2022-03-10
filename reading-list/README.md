@@ -40,8 +40,18 @@
   - [Glitch](#glitch)
   - [Game On](#game-on)
   - [New Spring](#new-spring)
+  - [Learn Spanish in Your Car Verbs 101](#learn-spanish-in-your-car-verbs-101)
   - [The Eye of the World](#the-eye-of-the-world)
-  - [The Hunt](#the-hunt)
+  - [The Great Hunt](#the-great-hunt)
+  - [Foundation:](#foundation)
+  - [Trip](#trip)
+  - [Prelude to Foundation:](#prelude-to-foundation)
+- [2022](#2022)
+  - [The Dragon Reborn](#the-dragon-reborn)
+  - [The Shadow Rising](#the-shadow-rising)
+  - [Pride and Prejudice](#pride-and-prejudice)
+  - [The Pillars of the Earth](#the-pillars-of-the-earth)
+  - [World Without End](#world-without-end)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
